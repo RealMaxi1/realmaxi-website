@@ -48,27 +48,9 @@ const links = [
         color: "#0078D4"
     },
     {
-        title: "Linux Mint Download",
-        url: "https://linuxmint.com/download.php",
-        icon: "fa-brands fa-linux",
-        color: "#87CF3E"
-    },
-    {
         title: "Bazzite Download",
         url: "https://bazzite.gg/",
         icon: "fa-solid fa-compact-disc",
-        color: "#E95420"
-    },
-    {
-        title: "Zorin OS Download",
-        url: "https://zorin.com/os/download/",
-        icon: "fa-brands fa-linux",
-        color: "#15A9E1"
-    },
-    {
-        title: "Ubuntu Download",
-        url: "https://ubuntu.com/download/desktop",
-        icon: "fa-brands fa-ubuntu",
         color: "#E95420"
     },
     {
