@@ -24,6 +24,12 @@ const links = [
         color: "#00A2FF"
     },
     {
+        title: "Apple DE",
+        url: "https://www.apple.com/de/",
+        icon: "fa-brands fa-apple",
+        color: "#A2AAAD"
+    },
+    {
         title: "Steam",
         url: "https://steamcommunity.com/id/realmaxi15/",
         icon: "fa-brands fa-steam",
@@ -64,6 +70,18 @@ const links = [
         url: "https://ubuntu.com/download/desktop",
         icon: "fa-brands fa-ubuntu",
         color: "#E95420"
+    },
+    {
+        title: "Rufus Download",
+        url: "https://rufus.ie/de/",
+        icon: "fa-solid fa-hard-drive",
+        color: "#005a9e"
+    },
+    {
+        title: "Balena Etcher Download",
+        url: "https://etcher.balena.io/",
+        icon: "fa-solid fa-bolt",
+        color: "#fa8c16"
     }
 ];
 
