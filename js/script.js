@@ -36,12 +36,6 @@ const links = [
         color: "#A2AAAD"
     },
     {
-        title: "Windows 10 Download",
-        url: "https://www.microsoft.com/de-de/software-download/windows10",
-        icon: "fa-brands fa-windows",
-        color: "#0078D4"
-    },
-    {
         title: "Windows 11 Download",
         url: "https://www.microsoft.com/de-de/software-download/windows11",
         icon: "fa-brands fa-windows",
