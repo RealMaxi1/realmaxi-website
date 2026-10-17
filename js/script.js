@@ -12,6 +12,12 @@ const links = [
         color: "#5865F2"
     },
     {
+        title: "Steam",
+        url: "https://steamcommunity.com/id/realmaxi15/",
+        icon: "fa-brands fa-steam",
+        color: "#66C0F4"
+    },
+    {
         title: "Instagram",
         url: "https://www.instagram.com/realmaxi15/",
         icon: "fa-brands fa-instagram",
@@ -28,12 +34,6 @@ const links = [
         url: "https://www.apple.com/de/",
         icon: "fa-brands fa-apple",
         color: "#A2AAAD"
-    },
-    {
-        title: "Steam",
-        url: "https://steamcommunity.com/id/realmaxi15/",
-        icon: "fa-brands fa-steam",
-        color: "#66C0F4"
     },
     {
         title: "Windows 10 Download",
